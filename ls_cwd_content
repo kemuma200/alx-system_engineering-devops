@@ -1,0 +1,27 @@
+total 76
+drwxr-xr-x 6 root root 4096 Mar 13 01:21 .
+-rw-r--r-- 1 root root    0 Mar 13 00:27 .)
+drwx------ 1 root root 4096 Mar  9 15:56 ..
+-rwxr-xr-x 1 root root   35 Mar 12 23:07 0-hello_world
+-rwxr-xr-x 1 root root   36 Mar 12 23:06 0-hello_world~
+drwxr-xr-x 2 root root 4096 Mar  9 15:49 0x00-shell_basics
+drwxr-xr-x 3 root root 4096 Mar 10 00:52 0x01-shell_permissions
+drwxr-xr-x 2 root root    6 Mar 12 22:28 0x02-shell_redirections
+-rwxr-xr-x 1 root root   28 Mar 12 23:16 1-confused_smiley
+-rw-r--r-- 1 root root    0 Mar 12 23:06 1-confused_smiley~
+-rwxr-xr-x 1 root root   28 Mar 12 23:22 2-hellofile
+-rw-r--r-- 1 root root   12 Mar 12 23:19 2-hellofile~
+-rwxr-xr-x 1 root root   39 Mar 12 23:24 3-twofiles
+-rwxr-xr-x 1 root root   36 Mar 12 23:28 4-lastlines
+-rwxr-xr-x 1 root root   35 Mar 12 23:27 4-lastlines~
+-rwxr-xr-x 1 root root   35 Mar 12 23:31 5-firstlines
+-rwxr-xr-x 1 root root   39 Mar 12 23:34 6-third_line
+lrwxrwxrwx 1 root root   21 Mar 13 00:53 .#7-file -> root@38aa09c027d0.372
+-rwxr-xr-x 1 root root   74 Mar 13 01:15 7-file
+-rwxr-xr-x 1 root root   80 Mar 13 00:49 7-file~
+-rwxr-xr-x 1 root root   35 Mar 13 01:20 8-cwd_state
+-rw-r--r-- 1 root root   38 Mar 13 01:16 \*\'Best
+drwxr-xr-x 8 root root  223 Mar 10 00:52 .git
+-rw-r--r-- 1 root root    0 Mar 13 01:21 ls_cwd_content
+-rw-r--r-- 1 root root   13 Mar  9 14:06 README.md
+-rw-r--r-- 1 root root    0 Mar 13 01:14 School\'\*$\?\*\*\*\*\*:)
