@@ -1,2 +1,2 @@
 #!/bin/bash
-sed 'n; d' > b | cat b
+cat -n | grep
