@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -n 'p;n' | grep [...]
+seq 10 | perl -ne 'print if $.%2'
