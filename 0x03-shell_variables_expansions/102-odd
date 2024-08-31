@@ -1,2 +1,2 @@
 #!/bin/bash
-awk '{ print > (NR % 2 ? "odd.txt" : "even.txt") }'| cat odd.txt
+sed 'n; d' > b | cat b
