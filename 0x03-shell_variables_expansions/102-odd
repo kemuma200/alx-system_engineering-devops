@@ -1,2 +1,2 @@
 #!/bin/bash
-seq 10 | perl -ne 'print if $.%2'
+awk '{ print > (NR % 2 ? "odd.txt" : "even.txt") }'| cat odd.txt
